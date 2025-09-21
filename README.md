@@ -45,7 +45,7 @@ The dashboard includes the following visual components:
 
 ## 📎 Dashboard Preview
 
-![Dashboard Screenshot](Washington%20EV%20Dashboard.png)
+![Dashboard Screenshot]([Washington%20EV%20Dashboard.png](https://github.com/ManasNikte/Washington-EV-Dashboard/blob/main/Washington%20EV%20Dashboard%20.png))
 
 ---
 
