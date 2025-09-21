@@ -36,19 +36,6 @@ The dashboard includes the following visual components:
 
 ---
 
-## 📁 Project Files
-
-- `Washington EV Dashboard.png` – Image of the Tableau dashboard.
-- *(Optional)* `Washington_EV_Dashboard.twbx` – Packaged Tableau workbook (add this if you're including the file).
-
----
-
-## 📎 Dashboard Preview
-
-![Dashboard Screenshot]([Washington%20EV%20Dashboard.png](https://github.com/ManasNikte/Washington-EV-Dashboard/blob/main/Washington%20EV%20Dashboard%20.png))
-
----
-
 ## 📬 Contact
 
 Feel free to open an issue or reach out with suggestions and feedback.
